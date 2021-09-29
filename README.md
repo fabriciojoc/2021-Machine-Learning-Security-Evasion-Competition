@@ -20,6 +20,8 @@ Taxonomies for products and languages: https://review.docs.microsoft.com/new-hop
 
 This repository contains code samples for the 2021 Machine Learning Security Evasion Competition.  Participants must register at [https://mlsec.io](https://mlsec.io) and accept the terms of service in order to participate.
 
+### <span style="color:red"> **IMPORTANT: OUR 2021 TRAINED MODEL CAN BE DOWNLOADED [HERE](https://1drv.ms/u/s!AmbMXNLaAA1Umjtehmm2_af5asBR?e=kjDIpr).**</span>
+
 ## Dates
 | Challenge         | Start Date                  |  End Date          |
 |-------------------|-----------------------------|--------------------|
