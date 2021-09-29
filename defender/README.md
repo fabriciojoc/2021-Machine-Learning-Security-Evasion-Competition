@@ -16,6 +16,8 @@
 
 ## <a name='overview'></a>Overview
 
+### <span style="color:red"> **IMPORTANT: OUR 2021 TRAINED MODEL CAN BE DOWNLOADED [HERE](https://1drv.ms/u/s!AmbMXNLaAA1Umjtehmm2_af5asBR?e=kjDIpr).**</span>
+
 ### <a name='challenge-dates'></a>Challenge dates
 Jun 15 – Jul 23, 2021 AoE (AoE)
 
